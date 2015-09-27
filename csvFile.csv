@@ -1,0 +1,21 @@
+value1,value2,Town,State,Country,Location
+2,2,Musewellbrook,NSW,Australia,Incorrect spelling
+3,2,Muswellbrook,NSW,Australia,Correct spelling
+5,2,Muswelbroke,NSW,Australia,Incorrect spelling
+=,2,where?,NSW,Australia,Not a place
+2,when,,NSW,Australia,vague
+3,3,Other,,Australia,Not a place
+4,2,Port Campbell,Vic,Australia,Correct spelling
+what,4,Port Campbell,NSW,Australia,Not a place
+which,4,Sydney,Nsw,Australia,Correct spelling
+4,5,,,Australia,Vague
+e,f,Melbourne,,Australia,"Correct, vague"
+3,2,Not a real place,STATE,AUS,Not a place
+d,3,Armadale,,Australia,"Correct, vague"
+3,g,Armadale,WA,Australia,Correct spelling
+s,0,Northern,Territory,Aus,Vague
+what,d,Northern,Territory,,Vague
+5,g,"Ravens Cove, Whitsundays",QLD,Australia,Correct spelling
+3,,1,Smith Street,Australia,vague
+4,6,Kingdon Street,NSW,Australia,vague
+5,h,"Farand Street, Forbes",NSW,,vague
