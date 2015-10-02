@@ -1,5 +1,5 @@
 # Combination Geocoder
-Python script for checking the accuracy/spelling of locations in a CSV by using several geocoding APIs at once. 
+Python 2.7 script for checking the accuracy/spelling of locations in a CSV by using several geocoding APIs at once. 
 Similar results indicate accurate addresses.
 
 #### The reason for this project -
@@ -11,7 +11,6 @@ If you're geocoding locations that you aren't familiar with, it's hard to know i
 When geocoders are fed accurate locations, they all return similar and predictable results.
 When innacurate locations are fed, the geocoders behave differently.
 Observing these differences can be a quick way to check if your locations are accurate enough for a geocoder to return accurate coordinates.
-If you get bad results, you can change the addresses and run the process again.
 
 #### To use this script - 
 - Get the API keys from every geocoding service, save them in the API functions (line 45).
