@@ -27,6 +27,9 @@ If you get bad results, you can change the addresses and run the process again.
 - All have terms of service. 
 - Bing is accurate, but has usage limits. The free account allows 50 requests per day.
 
+#### Features to add
+- Get estimates of location accuracy from geocoders, and use that to make a weighted average. (Self-admitted innacurate coordinates will have less weighting).
+
 #### Examples of API requests -
 - bingMapsTemplate = http://dev.virtualearth.net/REST/v1/Locations/PLACENAME?o=xml&key=BINGMAPSKEY
 - mapQuestTemplate = http://www.mapquestapi.com/geocoding/v1/address?key=YOUR_KEY_HERE&location=PLACENAME&callback=renderGeocode
