@@ -1,0 +1,3 @@
+Postcode,Location,State,Country,existing_lat,existing_lng,google_pos_lat,google_pos_lng,open_cage_result_lat,open_cage_result_lng,pick_point_result_lat,pick_point_result_lng,map_quest_result_lat,map_quest_result_lng
+200, Australian National University, ACT,Australia,-35.28,149.12,Index Error,Index Error,-35.2807843,149.1170238,-35.28078425,149.117023752508,-35.282939,149.118759
+221, Barton, ACT,Australia,-35.2,149.1,-35.3109631,149.1330612,-35.3092592,149.1358208,-35.3092593,149.1358208,-35.212093,149.11133

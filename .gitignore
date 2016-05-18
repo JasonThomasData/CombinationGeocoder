@@ -1,0 +1,6 @@
+env/
+*.pyc
+config.py
+australian-postcodes.csv
+postcodesData/
+
