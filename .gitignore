@@ -4,7 +4,5 @@ config.py
 australian-postcodes.csv
 postcodesData/
 docalculations.py
-resultsformatter.py
-sendrequesttoapi.py
 processdataforgeocode.py
 tests/
