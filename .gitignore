@@ -4,7 +4,6 @@ config.py
 australian-postcodes.csv
 postcodesData/
 docalculations.py
-filehandler.py
 qstringformatter.py
 resultsformatter.py
 sendrequesttoapi.py
