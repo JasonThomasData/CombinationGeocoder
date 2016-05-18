@@ -3,4 +3,10 @@ env/
 config.py
 australian-postcodes.csv
 postcodesData/
-application/
+docalculations.py
+filehandler.py
+qstringformatter.py
+resultsformatter.py
+sendrequesttoapi.py
+processdataforgeocode.py
+tests/
